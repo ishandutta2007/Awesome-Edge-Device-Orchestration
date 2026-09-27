@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Edge-Device-Orchestration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edge-Device-Orchestration?style=flat-square" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Edge-Device-Orchestration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Edge-Device-Orchestration?style=flat-square" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edge-Device-Orchestration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Edge-Device-Orchestration?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Edge-Device-Orchestration/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Edge-Device-Orchestration?style=flat-square" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,7 +56,7 @@ The table below summarizes top commercial and hosted SaaS edge management platfo
 
 ## 🔓 Open-Source Projects
 
-Below is a curated list of active open-source edge orchestration repositories. Each project features a live GitHub star count badge that links directly to its stargazers page. Sorted by **GitHub Star Count (Descending)** 🌟.
+Below is a curated list of active open-source edge orchestration repositories. Each project features a live GitHub Stars_Count badge that links directly to its stargazers page. Sorted by **GitHub Stars_Count (Descending)** 🌟.
 
 ### ☸️ Lightweight Kubernetes for Edge
 
@@ -129,7 +129,7 @@ Below is a curated list of active open-source edge orchestration repositories. E
 Contributions are warmly welcomed! 💖 If you know an awesome edge device orchestration tool, OTA updater, or lightweight Kubernetes platform that should be included:
 
 1. Fork this repository. 🍴
-2. Add your entry to `README.md` keeping formatting consistent (include name, links, description, and star badges).
+2. Add your entry to `README.md` keeping formatting consistent (include name, links, description, and Stars_Badges).
 3. Submit a Pull Request (PR) with a brief summary of the project.
 
 Please check existing items before submitting to prevent duplicate entries!
